@@ -1,1 +1,1 @@
-# MVTEC AD-C: The Corrupted MVTec Anomly Detection Dataset
+# MVTEC AD-C: The Corrupted MVTec Anomly Detection Robustness Benchmark
