@@ -21,4 +21,4 @@ Image size: 512 x 512.
 
 ---
 If you have any questions at all, please feel free to tell us (email: chenyurong1998@outlook.com).  
-**Acknowledgement:** We would like to thanks Ms. Yang for discussing, providing the insight and conducting experiments.  
+**Acknowledgement:** We would like to thank Ms. Yang for discussing, providing the insight and conducting experiments.  
