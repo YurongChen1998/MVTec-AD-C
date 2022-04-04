@@ -4,4 +4,4 @@ The automation of quality control is common and plays a major role in many indus
 
 Although existing state-of-the-art anomaly detection methods get good results on the detection and segmentation task, **we notice that there are few studies about the model robustness**, i.e. the performance on the corrupted data. This repository contains the corrupted MVTec anomaly detection dataset for benchmarking AD model robustness.
 
-![MVTec AD-C](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/MVTec%20AD-C.jpg)
+![MVTec AD-C](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/MVTec%20AD-C.png)
