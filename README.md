@@ -22,3 +22,6 @@ Image size: 512 x 512.
 ---
 If you have any questions at all, please feel free to tell us (email: chenyurong1998@outlook.com).  
 **Acknowledgement:** We would like to thank Ms. Yang for discussing, providing the insight and conducting experiments.  
+
+---
+![contents](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/Wide-ResNet50.pdf)
