@@ -24,4 +24,8 @@ If you have any questions at all, please feel free to tell us (email: chenyurong
 **Acknowledgement:** We would like to thank Ms. Yang for discussing, providing the insight and conducting experiments.  
 
 ---
-![contents](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/Wide-ResNet50.pdf)
+![Bottle](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_bottle.jpg)
+![Cable](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_cable.jpg)
+![Capsule](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_cable.jpg)
+
+
