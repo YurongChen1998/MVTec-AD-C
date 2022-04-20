@@ -24,17 +24,19 @@ If you have any questions at all, please feel free to tell us (email: chenyurong
 **Acknowledgement:** We would like to thank Ms. Yang for discussing, providing the insight and conducting experiments.  
 
 ---
-![Bottle](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_bottle.jpg)
-![Cable](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_cable.jpg)
-![Capsule](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_cable.jpg)
-![Carpet](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_carpet.jpg)
-![Hazelnut](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/hazelnut.jpg)
-![Leather](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_07.jpg)
-![Metal Nut](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_08.jpg)
-![Pill](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_09.jpg)
-![Screw](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_10.jpg)
-![Tile](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_11.jpg)
-![Toothbrush](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_12.jpg)
-![Transistor](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_13.jpg)
-![Wood](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_14.jpg)
-![Zipper](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_15.jpg)
+<!--
+%![Bottle](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_bottle.jpg)
+%![Cable](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_cable.jpg)
+%![Capsule](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_cable.jpg)
+%![Carpet](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_carpet.jpg)
+%![Hazelnut](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/hazelnut.jpg)
+%![Leather](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_07.jpg)
+%![Metal Nut](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_08.jpg)
+%![Pill](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_09.jpg)
+%![Screw](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_10.jpg)
+%![Tile](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_11.jpg)
+%![Toothbrush](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_12.jpg)
+%![Transistor](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_13.jpg)
+%![Wood](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_14.jpg)
+%![Zipper](https://github.com/YurongChen1998/MVTec-AD-C/blob/main/results/Wide-ResNet50_15.jpg)
+-->
